@@ -52,13 +52,20 @@ virtual-classroom/ │ ├── client/ # React frontend │ ├── componen
 
 ## 📦 Dependencies
 
-### 🔧 Backend (`/server`) and 💻 Frontend (`/client or /virtualclassroom`)
+### 🔧 Backend (`/server`) and 
 
 ```bash
 - npm install express mongoose cors dotenv multer body-parser
+```
+
+### 💻 Frontend (`/client or /virtualclassroom`)
+```bash
 - npm install axios react-router-dom
+```
 
 ---
+
+
 
 ## 🧪 API Highlights 
 
@@ -103,8 +110,9 @@ virtual-classroom/ │ ├── client/ # React frontend │ ├── componen
 - 🔔 Notifications for students  
 - 📊 Admin analytics dashboard  
 
+---
 
-🙋‍♂️ Author
-Varun B P
-🧑‍💼 https://www.linkedin.com/in/varun-b-p-/
-📧 varunbp98@gmail.com
+## 🙋‍♂️ Author
+### Varun B P
+- 🧑‍💼 https://www.linkedin.com/in/varun-b-p-/
+- 📧 varunbp98@gmail.com
