@@ -19,7 +19,7 @@ app.use("/uploads", express.static(path.join(__dirname, "uploads"))); // Serve u
 // Connect to MongoDB
 mongoose
   .connect(
-    "mongodb+srv://varunbp98:lpFrNsL6B1vOSJ4x@cluster0.fyl3o.mongodb.net/VirtualClassRoom",
+    "mongodb+srv://<username>:<password>@cluster0.fyl3o.mongodb.net/VirtualClassRoom",
     {
       // useNewUrlParser: true,
       // useUnifiedTopology: true,
